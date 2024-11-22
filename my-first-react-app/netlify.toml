@@ -1,0 +1,4 @@
+[build]
+  base = "my-first-react-app"
+  command = "CI=true npm run build"
+  publish = "build"
